@@ -1,4 +1,4 @@
-# Design Document
+# Database Designing Project for CS50SQL
 
 By RINKESH PATEL
 
